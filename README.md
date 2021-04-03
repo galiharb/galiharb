@@ -34,3 +34,9 @@
 <!--- **Cloud Servers** : Hostinger VPS-->
 <!--- gcloud-->
 <!--- digitalocean-->
+
+### Donasi
+| TOKEN | ADDRESS | NETWORK |
+| ------------- | ------------- | ------------- |
+| **IDRT** | 0xc5aaa94853f49cb301190e6fff5d9991099b7f3b | ERC20 |
+| **USDT** | 0xc5aaa94853f49cb301190e6fff5d9991099b7f3b | ERC20 |
