@@ -8,16 +8,16 @@
 
 ### Sosial Media
 <a href="https://id.linkedin.com/in/galih-amar-barkah">
-  <img align="left" alt="Rehan's Linkdein" width="22px" src="https://image.flaticon.com/icons/png/128/1051/1051282.png" />
+  <img align="left" alt="Galih's Linkdein" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />
 </a>
 <a href="https://github.com/galiharb">
-  <img align="left" alt="Rehan's Github" width="22px" src="https://image.flaticon.com/icons/png/128/1051/1051275.png" />
+  <img align="left" alt="Galih's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 </a>
 <a href="https://twitter.com/GalihBarkah">
-  <img align="left" alt="Rehan's Twitter" width="22px" src="https://image.flaticon.com/icons/png/128/1051/1051280.png" />
+  <img align="left" alt="Galih's Twitter" width="22px" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" />
 </a>
 <a href="https://www.instagram.com/galih.arb">
-  <img align="left" alt="Rehan's Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/1051/1051262.png" />
+  <img align="left" alt="Galih's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />
 </a>
 <br />
 
